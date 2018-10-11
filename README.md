@@ -18,3 +18,7 @@ Reinforcement learning:
 
 https://github.com/google/dopamine 
 
+
+Flappy Bird(Using DQN):
+https://github.com/yenchenlin/DeepLearningFlappyBird
+
